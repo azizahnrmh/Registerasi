@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registrasi</string>
+    <string-array name="fakultas_array">
+        <item>FTI</item>
+        <item>FE</item>
+        <item>FIKOM</item>
+        <item>FK</item>
+    </string-array>
+</resources>
